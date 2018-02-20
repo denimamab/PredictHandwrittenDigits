@@ -1,0 +1,7 @@
+.idea/
+
+logs/model/*
+
+saved/
+
+lib/__pycache__/
