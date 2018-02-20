@@ -1,6 +1,6 @@
 # Predict Handwritten Digits
 
-This is a mini project based on two pre-trained models (Linear, Convolutional), and perform predictions in real time according to a draw area where you can draw the digit using the mouse.
+This is a mini project based on two pre-trained models Linear and Convolutional neural networks, and perform predictions in real time according to a draw area where you can draw the digit using the mouse.
 
 # Getting started
 
